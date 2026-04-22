@@ -175,6 +175,7 @@ Project ini masih menggunakan query langsung di controller sebagai implementasi 
 ## Author
 
 **Melisa Fajri Rosa**  
+**Rahil Putri Maharani**  
 Tugas MVC Pertemuan 4
 
 ---
